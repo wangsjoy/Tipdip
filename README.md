@@ -4,7 +4,7 @@
 
 Submitted by: **Sophia Wang**
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -14,7 +14,7 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Settings page to change the default tip percentage.
+* [x] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
@@ -27,13 +27,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://i.imgur.com/1b4trVn.gif)
+
+![](https://i.imgur.com/2aP2raf.gif)
 
 GIF created with [EZGif](ezgif.com/video-to-gif).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Creating the settings page was an interesting challenge and introduction to saving data in iOS using NSUserDefaults. By using the relevant stages of a view controller lifecycle, the default tip could be saved and changed in the segmented control element.
 
 ## Credits
 

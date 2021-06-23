@@ -16,6 +16,7 @@
 		12FF9C1F2682932000EB09D6 /* TipdipTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 12FF9C1E2682932000EB09D6 /* TipdipTests.m */; };
 		12FF9C2A2682932000EB09D6 /* TipdipUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 12FF9C292682932000EB09D6 /* TipdipUITests.m */; };
 		12FF9C392682944400EB09D6 /* TipdipViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12FF9C382682944400EB09D6 /* TipdipViewController.m */; };
+		12FF9C3C2682A1E800EB09D6 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12FF9C3B2682A1E800EB09D6 /* SettingsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		12FF9C2B2682932000EB09D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		12FF9C372682944400EB09D6 /* TipdipViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TipdipViewController.h; sourceTree = "<group>"; };
 		12FF9C382682944400EB09D6 /* TipdipViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TipdipViewController.m; sourceTree = "<group>"; };
+		12FF9C3A2682A1E800EB09D6 /* SettingsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		12FF9C3B2682A1E800EB09D6 /* SettingsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +112,8 @@
 				12FF9C052682931F00EB09D6 /* SceneDelegate.h */,
 				12FF9C062682931F00EB09D6 /* SceneDelegate.m */,
 				12FF9C0B2682931F00EB09D6 /* Main.storyboard */,
+				12FF9C3A2682A1E800EB09D6 /* SettingsViewController.h */,
+				12FF9C3B2682A1E800EB09D6 /* SettingsViewController.m */,
 				12FF9C372682944400EB09D6 /* TipdipViewController.h */,
 				12FF9C382682944400EB09D6 /* TipdipViewController.m */,
 				12FF9C0E2682932000EB09D6 /* Assets.xcassets */,
@@ -268,6 +273,7 @@
 			files = (
 				12FF9C042682931F00EB09D6 /* AppDelegate.m in Sources */,
 				12FF9C152682932000EB09D6 /* main.m in Sources */,
+				12FF9C3C2682A1E800EB09D6 /* SettingsViewController.m in Sources */,
 				12FF9C392682944400EB09D6 /* TipdipViewController.m in Sources */,
 				12FF9C072682931F00EB09D6 /* SceneDelegate.m in Sources */,
 			);
